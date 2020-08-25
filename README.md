@@ -1,2 +1,2 @@
 # CodeForces
-Problemset-Codeforces
+Problemsets-Codeforces
